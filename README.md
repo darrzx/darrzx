@@ -1,6 +1,6 @@
 ## Hello, There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-I'm Darren, a Computer Science undergraduate at [BINUS University]([https://utdallas.edu/](https://binus.ac.id/)). Passionate about technology, I currently work in operations and system development. Let's connect!
+I'm Darren, a Computer Science undergraduate at [BINUS University]([https://utdallas.edu/](https://binus.ac.id/)). Passionate about technology, I currently work in Operations and System Development Staff at [BINUS University]([https://utdallas.edu/](https://binus.ac.id/)). Let's connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothy-darren) 
